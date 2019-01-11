@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ClubStats()
+comment0.text=\r\n\ The\ Constractor\ method\ for\ the\ ClubStats\ class.\ Here\ we\ create\ a\ new\ Scanner\ (named\ clbst).\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method\ of\ the\ program.\r\n
+comment2.params=
+comment2.target=void\ ClubStats_menu()
+comment2.text=\r\n\ Method\ that\ creates\ the\ main\ menu\ for\ the\ user.\ From\ here\ the\ user\ can\ select\ one\ of\ five\ option\ to\ continue.\r\n
+comment3.params=
+comment3.target=void\ question()
+comment3.text=\r\n\ Method\ that\ asks\ the\ user\ to\ choose\ between\ two\ options,\ continue\ or\ quit\ the\ programm.\ It\ also\ prints\ an\ "Unrecognized\ option"\ message\ if\ the\ user\r\n\ does\ not\ choose\ a\ proper\ option.\r\n
+comment4.params=
+comment4.target=void\ addClimber()
+comment4.text=\r\n\ Method\ that\ adds\ a\ Climber\ object\ in\ the\ Club\r\n
+comment5.params=
+comment5.target=void\ addNewMountain()
+comment5.text=\r\n\ Method\ that\ adds\ a\ new\ Mountain\ to\ the\ club\ (climbed\ by\ a\ specific\ climber)\r\n
+comment6.params=
+comment6.target=void\ statAvgClimber()
+comment7.params=
+comment7.target=void\ statHighestMountain()
+numComments=8

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Club()
+comment0.text=\r\n\ Constructor\ method\ for\ the\ Club.\ Contains\ the\ two\ ArrayLists\ we\ will\ need,\ the\ \r\n\ "mountainsClimbed"\ where\ the\ mountains\ will\ be\ stored\ and\ the\ "climbers"\ where\ we\ will\ store\ \r\n\ our\ Climber\ objects.\r\n
+comment1.params=newCName
+comment1.target=void\ addClimber(Climber)
+comment1.text=\r\n\ Method\ where\ we\ create\ our\ new\ "climbers"\ araylist\ where\ we\ will\ add\ the\ Climbers.\r\n
+comment2.params=
+comment2.target=Climber\ highestAvgClimber()
+comment2.text=\r\n\ Method\ where\ we\ the\ Climber\ who\ has\ recorded\ the\ highest\ average\ mountain\ height.\r\n
+comment3.params=
+comment3.target=Mountain\ getHeighestMount()
+comment3.text=\r\n\ Method\ were\ we\ go\ through\ our\ Climbers\ in\ the\ climbers\ list\ and\ find\ the\ highest\ mountain\ \r\n\ recorded\ by\ any\ Climber.\r\n
+comment4.params=GivenHeight
+comment4.target=java.util.ArrayList\ mountainsHigherThanGivenHeight(int)
+comment4.text=\r\n\ Method\ where\ we\ ask\ for\ a\ height\ and\ return\ a\ list\ of\ mountains\ higher\ than\ the\ given\ height.\r\n
+numComments=5

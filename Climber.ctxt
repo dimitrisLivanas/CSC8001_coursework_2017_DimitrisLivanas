@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=newCName\ newCAge\ newCGender
+comment0.target=Climber(java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ method\ for\ the\ Climber.\ Contains\ the\ attributes\ for\ the\ climber(Name,\r\n\ \ Age,\ Gender)\ and\ the\ Arraylist\ "mountainsClimbed"\ where\ the\ Mountain\ objects\ are\r\n\ \ stored.\r\n\ \ @param\ String\ newCName\ -\ name\ for\ tha\ climber\r\n\ \ @param\ int\ newCAge\ -\ age\ for\ the\ climber\r\n\ \ @param\ String\ newCGender\ -\ gender\ for\ the\ climber\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Method\ that\ returns\ the\ name\ of\ the\ climber.\r\n\ @return\ String\r\n
+comment2.params=mountainName
+comment2.target=void\ addMountain(Mountain)
+comment2.text=\r\n\ Method\ where\ we\ add\ a\ mountain\ object\ to\ our\ "mountainsClimbed"\ list.\r\n
+comment3.params=
+comment3.target=Mountain\ getHeighest()
+comment3.text=\r\n\ Method\ where\ we\ find\ and\ return\ the\ Heighest\ Mountain\ climbed\ by\ the\ climber.\r\n
+comment4.params=
+comment4.target=double\ avgHeight()
+comment4.text=\r\n\ Method\ where\ we\ find\ and\ return\ the\ average\ of\ the\ mountains\ height\ climbed\ by\ \r\n\ the\ climber.\r\n
+comment5.params=GivenHeight
+comment5.target=java.util.ArrayList\ mountainsHigherThanGivenHeight(int)
+comment5.text=\r\n\ Method\ where\ we\ ask\ the\ user\ for\ a\ height(GivenHeight)\ and\ return\ a\ list\ of\ \r\n\ mountains\ that\ are\ higher\ than\ that\ height.\r\n
+numComments=6
